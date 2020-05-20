@@ -1,0 +1,40 @@
+body{
+    background-color: #30475e;
+}
+
+#searchbar{
+    display: flex;
+    margin: auto;
+}
+
+#search-container{
+    display: block;
+}
+
+#search-border{
+    border: solid #222831 1px;
+    display: inline-block;
+    border-right: none;
+}
+
+#search-btn {
+  /*margin: 0 0 0 -5px;*/
+  border: none;
+  display: inline-grid;
+  background-color: #222831;
+  color: #ececec;
+}
+
+#search-field{
+    border: none;
+    display: inline-grid;
+    background-color: #30475e;
+    color: #ececec;
+    padding: 7px 7px 7px 10px;
+}
+
+#search-field:active{
+}
+
+
+
